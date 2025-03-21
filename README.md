@@ -97,7 +97,7 @@ I believe in a balanced life—here's what keeps me inspired beyond code:
 
 I'm always excited to connect with fellow tech enthusiasts and collaborators!  
 - **GitHub:** [vsunholy](https://github.com/vsunholy)  
-- **Email:** *(Reach out via GitHub for collaboration opportunities!)*
+- **Email:** *vitalijsnopov@gmail.com*
 
 ---
 
