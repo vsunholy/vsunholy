@@ -69,10 +69,6 @@ I'm continually evolving my automation strategies and exploring new frameworks. 
 
 I'm continually evolving my automation strategies and exploring new frameworks. Collaboration and innovation drive my work—let's build the future of software testing together!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Working on it" width="300px"/>
-</div>
-
 ---
 
 ## 🎸 Hobbies & Music
