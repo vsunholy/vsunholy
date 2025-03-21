@@ -1,7 +1,3 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vsunholy/vsunholy/main/banner.png" alt="Banner" width="100%"/>
-</p>
 
 # 🎉 Hey there, I'm Vitalij Snopov (vsunholy)! 🎉
 > *Welcome to my digital playground!*
