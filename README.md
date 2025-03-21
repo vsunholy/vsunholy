@@ -63,10 +63,6 @@ Check out my projects that showcase my testing wizardry:
 
 I'm continually evolving my automation strategies and exploring new frameworks. Collaboration and innovation drive my work—let's build the future of software testing together!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oE
-
-
 ---
 
 ## 🎨 What I'm Working On
