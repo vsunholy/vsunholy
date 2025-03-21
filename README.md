@@ -65,12 +65,6 @@ I'm continually evolving my automation strategies and exploring new frameworks. 
 
 ---
 
-## 🎨 What I'm Working On
-
-I'm continually evolving my automation strategies and exploring new frameworks. Collaboration and innovation drive my work—let's build the future of software testing together!
-
----
-
 ## 🎸 Hobbies & Music
 
 I believe in a balanced life—here's what keeps me inspired beyond code:
