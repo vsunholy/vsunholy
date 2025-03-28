@@ -2,7 +2,7 @@
 # 🎉 Hey there, I'm Vitalij Snopov (vsunholy)! 🎉
 > *Welcome to my digital playground!*
 
-I'm an **automation testing maven** from Klaipėda, Lithuania, on a mission to ensure rock-solid software quality. When I'm not busy crafting automated tests, you'll find me diving into cool projects, exploring new hobbies, and jamming to my favorite tunes!
+I'm an **QA Tester** from Klaipėda, Lithuania, on a mission to ensure rock-solid software quality. When I'm not busy crafting automated tests, you'll find me diving into cool projects, exploring new hobbies, and jamming to my favorite tunes!
 
 ---
 
