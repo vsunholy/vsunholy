@@ -33,8 +33,7 @@ Enhance your workflow with these awesome technologies:
 | **JMeter**      | ![JMeter](https://img.shields.io/badge/-JMeter-FF6600?logo=apachejmeter&logoColor=white&style=flat-square) |
 | **Postman**     | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
 | **Git & GitHub**| ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) |
-| **postgreSql**  | !
-[postgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)  |
+| **PostgreSql**| ![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square) |
 
 ---
 
